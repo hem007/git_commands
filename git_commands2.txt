@@ -1,0 +1,43 @@
+1.Initialize git repo
+>git init
+
+2.To pull files for git hub 
+>git pull -v <url of the repo> master
+
+eg:
+>git pull -v https://github.com/6095newgrocers/firstProject.git master
+
+3.Add file in local workplace
+>git add .
+
+
+
+4.commit directly skipping staging 
+>git commit -am "changes made by me"
+
+5.setup connection betwn your machine and github repo
+>git remote add <nickname for your repo> <url of the github repo>
+
+eg:
+>git remote add 6095g https://github.com/6095newgrocers/firstProject.git
+
+6. To check connection
+>git remote
+	-gives -> 6095g
+
+7.To upload you working copy into github repo
+	--conditions:
+	   -> you should already have add in staging area and committed in git repo
+
+>git push -u <nickname of your github repo> master
+
+eg:
+> git push -u 6095g master
+
+
+
+
+
+
+
+

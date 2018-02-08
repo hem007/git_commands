@@ -1,0 +1,25 @@
+
+ 	3 Stages in Git:
+1. Working copy
+2. Staging area
+3. Git repository
+
+
+
+commiting single file
+- git commit haha.txt -m "Commiting single file haha.txt"
+
+directly commiting into repository/ hard commit
+- git commit -am "directly commiting into repository"
+
+checking out for repository/ undoing changes made in the working copy
+-git checkout -- <filename.txt>
+
+Unstaging/ removing from staging area to working copy area
+-git reset HEAD <filename.txt>
+
+16 - Getting Old Versions from the Repository to the working copy
+	1. first check the git log then notice the which point 
+ 		of time/commit id you want to return to 
+	2. -git checkout <first few character of the commit id> -- <filename.txt>
+
