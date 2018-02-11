@@ -29,4 +29,6 @@ Unstaging/ removing from staging area to working copy area
 	1. first check the git log then notice the which point 
  		of time/commit id you want to return to 
 	2. -git checkout <first few character of the commit id> -- <filename.txt>
+			-this will replace the exiting file and replace it witholder
+				version which you have checked out 
 
