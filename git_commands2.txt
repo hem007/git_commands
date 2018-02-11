@@ -34,7 +34,9 @@ eg:
 eg:
 > git push -u 6095g master
 
-
+8. To clone/get a copy from github
+	>git clone <url of your github repo>
+   - now set up connection to it(look step 5)
 
 
 
