@@ -32,3 +32,7 @@ Unstaging/ removing from staging area to working copy area
 			-this will replace the exiting file and replace it witholder
 				version which you have checked out 
 
+
+For pulling out recent copy from the github
+if it says "Already up to date" then you have the recent copy from github
+>git pull
