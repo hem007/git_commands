@@ -1,4 +1,4 @@
-
+###
  	3 Stages in Git:
 1. Working copy
 2. Staging area
