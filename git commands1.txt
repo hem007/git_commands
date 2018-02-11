@@ -14,7 +14,7 @@ commiting into repository
 
 
 hard commit/Commit any files you've added with git add, 
-and also commit any files you've changed since then:
+and also commit any files skipping the staging(git add) process
 
 - git commit -am "directly commiting into repository"
 
