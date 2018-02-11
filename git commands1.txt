@@ -6,10 +6,16 @@
 
 
 
-commiting single file
+commiting single file/Commit changes to head (but not yet to the remote repository):
 - git commit haha.txt -m "Commiting single file haha.txt"
 
-directly commiting into repository/ hard commit
+commiting into repository
+- git commit -m "directly commiting into repository"
+
+
+hard commit/Commit any files you've added with git add, 
+and also commit any files you've changed since then:
+
 - git commit -am "directly commiting into repository"
 
 checking out for repository/ undoing changes made in the working copy
