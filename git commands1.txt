@@ -1,4 +1,4 @@
-###
+
  	3 Stages in Git:
 1. Working copy
 2. Staging area
@@ -14,8 +14,7 @@ commiting into repository
 
 
 hard commit/Commit any files you've added with git add, 
-and also commit any files skipping the staging(git add) process (this file should be 
-an existing but a modified file)
+and also commit any files you've changed since then:
 
 - git commit -am "directly commiting into repository"
 
