@@ -5,6 +5,11 @@
 3. Git repository
 
 
+General setup
+	>git config --global user.name "Hem Rai"
+	>git config --global user.email "hemchandrarai007@gmail"
+	>git config --list (this list all the above infos)
+	>git config config user.email( gives hemchandrarai007@gmail)
 
 commiting single file/Commit changes to head (but not yet to the remote repository):
 - git commit haha.txt -m "Commiting single file haha.txt"
