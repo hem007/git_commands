@@ -33,6 +33,9 @@ Unstaging/ removing from staging area to working copy area
 				version which you have checked out 
 
 
-For pulling out recent copy from the github
-if it says "Already up to date" then you have the recent copy from github
+For pulling out recent copy from github/syncronizing github repo and your local repo
+-if it says "Already up to date" then you have the recent copy from github
 >git pull
+
+-this is diff from clone, which is for pulling fresh/new copy from git hub
+>git clone <url of git repo>
