@@ -1,4 +1,4 @@
-1.Initialize git repo
+ 1.Initialize git repo
 >git init
 
 2.To pull files for git hub 
@@ -37,7 +37,6 @@ eg:
 8. To clone/get a copy from github
 	>git clone <url of your github repo>
    - now set up connection to it(look step 5)
-
 
 
 
